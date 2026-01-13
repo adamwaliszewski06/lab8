@@ -155,4 +155,5 @@ int average(int* wsk, int size) {
 	for (int i = 0; i < size; ++i) {
 		sum = sum + tab[i];
 	}
+
 }
